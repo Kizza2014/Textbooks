@@ -1,0 +1,3 @@
+fix lỗi sai câu 1. Hic lớn từng tuổi này rồi còn bị lừa.
+P = 1 - (55C10 + 60C10 + 65C10)/(90C10) + (25C10 + 30C10 + 35C10)/(90C10).
+Kết quả khi bấm máy thì y hệt nhưng nếu sai như mình thì không có điểm nào đâu nha.
